@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: jekyll-test
+  repo: frenchy.github.io/jekyll.test
   branch: master
 
 publish_mode: editorial_workflow
