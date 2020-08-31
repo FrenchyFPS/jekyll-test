@@ -24,7 +24,7 @@ collections:
     label: "Pages"
     folder: "_pages"
     create: true
-    slug: "{{page.title}}"
+    slug: "{{slug}}"
     fields: # The fields for each pages
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "thumbnail image", name: "thumbnail image", widget: "image"}
