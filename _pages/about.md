@@ -1,5 +1,5 @@
 ---
-title: deuxième blog
+title: About me
 author: FleauxTV
 ---
 ###Bonjour.
