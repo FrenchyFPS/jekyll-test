@@ -17,20 +17,15 @@ slogan:
   soustitre: Coaching individualisé, analyse de gameplay, astuces... Avec nos
     coachs, Boost ton talent !
 services:
-  - servicename: Pack 1
-    servicedesc: Ici le descriptif du premier pack que tu proposes !
-    name: Pack 1
+  - name: Pack 1
     description: Ici le descriptif du premier pack que tu proposes !
     image: /uploads/frenchy.jpg
-  - servicename: Pack 2
-    servicedesc: Ici le descriptif du premier pack que tu proposes !
-    name: Pack 2
+  - name: Pack 2
     image: /uploads/frenchy.jpg
     description: Ici le descriptif du deuxième pack que tu proposes !
   - name: Pack 3
     image: /uploads/frenchy.jpg
     description: Ici le descriptif du troisième pack que tu proposes !
 youtube:
-  - videolink: Lien 1
-    lien: https://www.youtube.com/watch?v=bEJoOS7J_dw
+  - lien: https://www.youtube.com/watch?v=bEJoOS7J_dw
 ---
