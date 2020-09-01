@@ -68,6 +68,12 @@ collections:
                   - {label: "Service name", name: "name", widget: "string"}
                   - {label: "Image", name: "image", widget: "image", required: false}
                   - {label: "Description", name: "description", widget: "markdown", required: false}
+          - label: "Contact" # Field de la catégorie contact, bouton
+            name: "contact"
+            widget: "object"
+            fields:
+              - {label: "Contact - titre bouton", name: "title", widget: "string"}
+              - {label: "Lien", name: "link", widget: "string"}      
           - label: "Youtube" # Field de la catégorie youtube
             name: "youtube"
             widget: "object"
