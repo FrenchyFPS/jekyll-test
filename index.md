@@ -30,6 +30,6 @@ services:
   descservices: Ceci est la description des services
 youtube:
   description: Ceci est la description pour la partie youtube
-  liens:
-    - lien: https://www.youtube.com/watch?v=bEJoOS7J_dw
+  videos:
+    - id: bEJoOS7J_dw
 ---

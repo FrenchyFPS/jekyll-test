@@ -73,8 +73,8 @@ collections:
             widget: "object"
             fields:
               - {label: "Description", name: "description", widget: "markdown"}
-              - label: "Liens videos"
-                name: "liens"
+              - label: "Videos"
+                name: "videos"
                 widget: "list"
                 fields:
-                  - {label: "Lien", name: "lien", widget: "string"}
+                  - {label: "ID video youtube", name: "id", widget: "string"}
