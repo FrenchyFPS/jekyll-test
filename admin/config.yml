@@ -55,7 +55,7 @@ collections:
             widget: "object"
             fields: 
               - {label: "Slogan - titre", name: "title", widget: "string"}
-              - {label: "Slogan - soustitre", name: "soustitre", widget: "string"}
+              - {label: "Slogan - soustitre", name: "soustitre", widget: "markdown"}
           - label: "Services" # Field de la catégorie service 
             name: "services"
             widget: "object"
