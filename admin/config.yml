@@ -41,7 +41,7 @@ collections:
             name: "banner"
             width: "object"
             fields:
-              - {label: "Titre", name: "title", widget: "string"}
+              - {label: "Titre", name: "maintitle", widget: "string"}
               - {label: "Image", name: "banner", widget: "image", required: false}
           - label: "About" # Field de la catégorie about 
             name: "about"
