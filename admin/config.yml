@@ -38,10 +38,10 @@ collections:
         file: "_data/home.yml"
         fields: # Fields of the home page
           - label: "Banniere" # Field de la catégorie bannière 
-            name: "banner-array"
+            name: "banner"
             width: "object"
             fields:
-              - {label: "Titre", name: "maintitle", widget: "string"}
+              - {label: "Titre", name: "title", widget: "string"}
               - {label: "Image", name: "banner", widget: "image", required: false}
           - label: "About" # Field de la catégorie about 
             name: "about"
@@ -68,4 +68,4 @@ collections:
             fields:
               - {label: "Video 1", name: "video1", widget: "string"}
               - {label: "Video 2", name: "video2", widget: "string", required: false}
-              - {label: "Video 2", name: "video2", widget: "string", required: false}
+              - {label: "Video 2", name: "video3", widget: "string", required: false}
