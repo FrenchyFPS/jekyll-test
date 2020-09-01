@@ -60,10 +60,11 @@ collections:
             name: "services"
             widget: "list"
             fields:
-              - {label: "Service name", name: "servicename", widget: "string"}
-              - {label: "Description", name: "servicedesc", widget: "markdown", required: false}
+              - {label: "Service name", name: "name", widget: "string"}
+              - {label: "Image", name: "image", widget: "image", required: false}
+              - {label: "Description", name: "description", widget: "markdown", required: false}
           - label: "Youtube" # Field de la catégorie youtube
             name: "youtube"
             widget: "list"
             fields:
-              - {label: "Lien video", name: "videolink", widget: "string"}
+              - {label: "Lien video", name: "lien", widget: "string"}

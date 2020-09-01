@@ -1,4 +1,4 @@
-
+/* Custom theme pour FrenchyFPS */
 
 body {
     background-color:#26272b;
@@ -9,4 +9,8 @@ body {
 .sitebanner {
     background-size: cover;
     background-position-y: center;
+}
+
+.page-footer {
+	background-color:#202125;
 }
