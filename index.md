@@ -16,4 +16,20 @@ slogan:
     joueurs pro !
   soustitre: Coaching individualisé, analyse de gameplay, astuces... Avec nos
     coachs, Boost ton talent !
+services:
+  service:
+    - name: "Pack 1 "
+      description: Description premier pack
+      image: /uploads/frenchy.jpg
+    - name: Pack 2
+      description: Description deuxième pack
+      image: /uploads/frenchy.jpg
+    - name: "Pack 3 "
+      image: /uploads/frenchy.jpg
+      description: Description troisième pack
+  descservices: Ceci est la description des services
+youtube:
+  description: Ceci est la description pour la partie youtube
+  liens:
+    - lien: https://www.youtube.com/watch?v=bEJoOS7J_dw
 ---
