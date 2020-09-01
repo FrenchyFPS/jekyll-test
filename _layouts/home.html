@@ -4,10 +4,10 @@ layout: default
 
 <h1>{{page.banner.title}}</h1>
 <h2>{{page.banner.subtitle}}</h2>
-<img src="{{page.banner.image}}">
+<img src="{{ site.baseurl }}{{ page.banner.image }}">
 
 <p>{{ page.about.image }}</p>
-<p>{{ page.about.desc }}</p>
+<p>{{ page.about.desc | markdownify  }}</p>
 
 <p>{{ page.slogan.title }}</p>
 <p>{{ page.slogan.soustitre }}</p>
