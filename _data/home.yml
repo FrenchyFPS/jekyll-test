@@ -1,0 +1,24 @@
+banner:
+  title: Bienvenue à  toi !
+  soustitre: Toi aussi, atteints les sommets.
+  banner: /uploads/header.jpg
+about:
+  image: /uploads/frenchy.jpg
+  desc: >-
+    ### Qui suis-je ?
+
+
+    Mon pseudo est Frenchy, Ex joueur professionnel COD4 et PUBG. J'ai joué sous les couleurs de Webone, shockwave, Dimension4, oXmoze, Yoyotech, TeamCoolerMaster, GIANTS, eXtensive, Punchline, Supremacy, Gamers Origin. Actuellement je streames et proposes mes services de coaching pour vous permettre d'évoluer votre style de jeu et vous donner les clefs pour atteindre un niveau **compétitif** sur les jeux type BattleRoyal et FPS en général.
+slogan:
+  title: Deviens le meilleur en prenant des heures de coaching en ligne avec des
+    joueurs pro !
+  soustitre: Coaching individualisé, analyse de gameplay, astuces... Avec nos
+    coachs, Boost ton talent !
+services:
+  service1: "Ceci est le premier service! "
+  service2: "Ceci est le deuxième service! "
+  service3: "Ceci est le troisième service! "
+youtube:
+  video1: "Lien 1 "
+  video2: Lien 2
+  video3: Lien 3
