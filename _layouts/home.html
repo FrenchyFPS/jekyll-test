@@ -44,14 +44,14 @@ layout: default
 	<div class="container">
 	  <div class="row">
 
-		{% for services in page.services %}
+		{% for service in page.services %}
 		<div class="col-lg-4 my-2">
 			<!-- card -->
 			<div class="card">
-				<img class="card-img-top img-fluid" src="{{ site.baseurl }}{{ services.image }}" alt="Image 1">
+				<img class="card-img-top img-fluid" src="{{ site.baseurl }}{{ service.image }}" alt="Image 1">
 				<div class="card-body">
-					<h5 class="card-title">{{ services.name }}</h5>
-					<p class="card-text">{{ services.description | markdownify }}</p>
+					<h5 class="card-title">{{ service.name }}</h5>
+					<p class="card-text">{{ service.description | markdownify }}</p>
 				</div>
 			</div>
 			<!-- end card -->
