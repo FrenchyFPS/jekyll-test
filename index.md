@@ -28,6 +28,9 @@ services:
       image: /uploads/frenchy.jpg
       description: Description troisième pack
   descservices: Ceci est la description des services
+contact:
+  title: ME CONTACTER
+  link: https://twitter.com/FleauxTV
 youtube:
   description: Ceci est la description pour la partie youtube
   videos:
