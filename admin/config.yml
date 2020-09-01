@@ -32,7 +32,7 @@ collections:
 
   - name: "Home"
     label: "Home page"
-    file: "index.md"
+    file: "index.html"
     create: false
     fields: # Fields of the home page
      - label: "Banniere" # Field de la catégorie bannière 
