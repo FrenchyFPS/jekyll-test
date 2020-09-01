@@ -58,15 +58,12 @@ collections:
               - {label: "Slogan - soustitre", name: "soustitre", widget: "markdown"}
           - label: "Services" # Field de la catégorie service 
             name: "services"
-            widget: "object"
+            widget: "list"
             fields:
-              - {label: "Service 1", name: "service1", widget: "markdown"}
-              - {label: "Service 2", name: "service2", widget: "markdown", required: false}
-              - {label: "Service 3", name: "service3", widget: "markdown", required: false}
+              - {label: "Service name", name: "servicename", widget: "string"}
+              - {label: "Description", name: "servicedesc", widget: "markdown", required: false}
           - label: "Youtube" # Field de la catégorie youtube
             name: "youtube"
-            widget: "object"
+            widget: "list"
             fields:
-              - {label: "Video 1", name: "video1", widget: "string"}
-              - {label: "Video 2", name: "video2", widget: "string", required: false}
-              - {label: "Video 2", name: "video3", widget: "string", required: false}
+              - {label: "Lien video", name: "videolink", widget: "string"}

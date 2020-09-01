@@ -16,14 +16,6 @@ slogan:
     joueurs pro !
   soustitre: Coaching individualisé, analyse de gameplay, astuces... Avec nos
     coachs, Boost ton talent !
-services:
-  service1: Service 1
-  service2: Service 2
-  service3: Service 3
-youtube:
-  video1: "Youtube 1 "
-  video2: Youtube 2
-  video3: Youtube 3
 ---
 
 
