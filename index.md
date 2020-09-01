@@ -16,6 +16,11 @@ slogan:
     joueurs pro !
   soustitre: Coaching individualisé, analyse de gameplay, astuces... Avec nos
     coachs, Boost ton talent !
+services:
+  - servicename: Pack 1
+    servicedesc: Ici le descriptif du premier pack que tu proposes !
+  - servicename: Pack 2
+    servicedesc: Ici le descriptif du premier pack que tu proposes !
+youtube:
+  - videolink: Lien 1
 ---
-
-
