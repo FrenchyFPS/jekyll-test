@@ -32,7 +32,7 @@ collections:
 
   - name: "home"
     label: "Home page"
-    file: "index.html"
+    file: "_data/home.yml"
     create: false
     fields: # Fields of the home page
      - label: "Banniere" # Field de la catégorie bannière 
