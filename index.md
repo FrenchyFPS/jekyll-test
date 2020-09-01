@@ -2,7 +2,7 @@
 layout: home
 banner:
   title: Bienvenue à  toi !
-  soustitre: Toi aussi, atteints les sommets.
+  subtitle: Toi aussi, atteints les sommets.
   banner: /uploads/header.jpg
 about:
   image: /uploads/frenchy.jpg
