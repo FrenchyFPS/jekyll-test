@@ -38,7 +38,7 @@ collections:
         file: "_data/home.yml"
         fields: # Fields of the home page
           - label: "Banniere" # Field de la catégorie bannière 
-            name: "banner"
+            name: "banner-array"
             width: "object"
             fields:
               - {label: "Titre", name: "maintitle", widget: "string"}
