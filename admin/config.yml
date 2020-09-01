@@ -35,7 +35,7 @@ collections:
     files:
       - label: "Home page"
         name: "home"
-        file: "_data/home.yml"
+        file: "index.md"
         fields: # Fields of the home page
           - label: "Banniere" # Field de la catégorie bannière 
             name: "banner"
