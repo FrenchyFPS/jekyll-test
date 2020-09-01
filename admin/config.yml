@@ -30,7 +30,7 @@ collections:
       - {label: "thumbnail image", name: "thumbnail image", widget: "image"}
       - {label: "Texte", name: "body", widget: "markdown"}
 
-  - name: "Home"
+  - name: "home"
     label: "Home page"
     file: "index.html"
     create: false
