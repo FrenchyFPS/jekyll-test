@@ -36,34 +36,34 @@ collections:
     create: false
     fields: # Fields of the home page
      - label: "Banniere" # Field de la catégorie bannière 
-        name: "banner"
-        widget: "object"
-        fields:
+       name: "banner"
+       widget: "object"
+       fields:
         - {label: "Titre", name: "title", widget: "string"}
         - {label: "Image", name: "banner", widget:"image", required: false}
      - label: "About" # Field de la catégorie about 
-        name: "about"
-        widget: "object"
-        fields:
+       name: "about"
+       widget: "object"
+       fields:
         - {label: "About - Image gauche", name: "image", widget: "image"}
         - {label: "About - Description", name: "desc", widget: "markdown"}
      - label: "Slogan" # Field de la catégorie slogan 
-        name: "slogan"
-        widget: "object"
-        fields: 
+       name: "slogan"
+       widget: "object"
+       fields: 
         - {label: "Slogan - titre", name: "title", widget: "string"}
         - {label: "Slogan - soustitre", name: "soustitre", widget: "string"}
      - label: "Services" # Field de la catégorie service 
-        name: "services"
-        widget: "object"
-        fields:
+       name: "services"
+       widget: "object"
+       fields:
         - {label: "Service 1", name: "service1", widget: "markdown"}
         - {label: "Service 2", name: "service2", widget: "markdown", required: false}
         - {label: "Service 3", name: "service3", widget: "markdown", required: false}
      - label: "Youtube" # Field de la catégorie youtube
-        name: "youtube"
-        widget: "object"
-        fields:
+       name: "youtube"
+       widget: "object"
+       fields:
         - {label: "Video 1", name: "video1", widget: "string"}
         - {label: "Video 2", name: "video2", widget: "string", required: false}
         - {label: "Video 2", name: "video2", widget: "string", required: false}
