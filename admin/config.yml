@@ -37,7 +37,7 @@ collections:
     fields: # Fields of the home page
      - label: "Bannière", name: "banner", widget: "object", fields:
         - label: "Titre", name: "title", widget: "string" 
-         - label: "Image", name: "banner", widget:"image", required: false  
+        - label: "Image", name: "banner", widget:"image", required: false  
      - label: "About", name: "about", widget: "object", fields:
         - label: "About - Image gauche", name: "image", widget: "image"
         - label: "About - Description", name: "desc", widget: "markdown"
